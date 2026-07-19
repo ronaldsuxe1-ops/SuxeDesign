@@ -1,0 +1,16 @@
+{
+  "name": "suxe-studio-website",
+  "version": "1.0.0",
+  "description": "Sitio web profesional para Suxe Studio",
+  "main": "index.html",
+  "scripts": {
+    "dev": "tsc --watch",
+    "build": "tsc"
+  },
+  "keywords": ["suxe", "studio", "website"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
